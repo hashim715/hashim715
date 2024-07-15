@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashim715&label=Profile%20views&color=0e75b6&style=flat" alt="hashim715" /> </p>
 
-- 🌱 I’m currently learning **DevOps, NLP, Flutter, Kotlin, Computer Networking, Linux, Generative AI, Advanced Computer Vision, Advanced Tensorflow, PyTorch**
+- 🌱 I’m currently learning **DevOps, NLP, Linux, Generative AI, Computer Vision, PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://gleaming-unicorn-6e1b62.netlify.app/](https://gleaming-unicorn-6e1b62.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhammad-hashim-portfolio.netlify.app/](https://muhammad-hashim-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN Stack, PERN Stack, Django, Python, Javascript, Rest Api Integration,Java, Deep Learning, Computer Vision, NLP, Docker, Kubernetes, Jenkins**
 
