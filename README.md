@@ -62,9 +62,6 @@ An AI-powered chat platform tailored for students that includes:
   <a href="https://linkedin.com/in/muhammad hashim" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/muhammad hashim shoro" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
 </p>
 
 ---
