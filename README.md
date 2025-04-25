@@ -11,11 +11,12 @@
 ### 🚀 About Me
 
 - 🔧 Currently focusing on **Golang** and exploring **low-level programming** to become a **System Engineer**  
-- 🌍 Actively learning **C**, **CI/CD pipelines** with **GitHub Actions** and **Jenkins**  
+- 🌍 Actively learning **CI/CD pipelines** with **GitHub Actions** and **Jenkins**  
 - 🐳 Proficient in **Docker**, **Nginx**, and deploying systems on **AWS** and **Azure**  
 - 🖥️ Backend development with **Express.js** and **Node.js**  
 - 🌐 Frontend development using **React.js**  
-- 🗄️ Experience with **PostgreSQL** and **MongoDB**  
+- 🗄️ Experience with **PostgreSQL** and **MongoDB**
+- ⚙️ Built scalable and optimized systems using Kafka, Redis, pub/sub architectures, and real-time communication with Socket.io
 - 📈 Working with **Prometheus** and **Grafana** for system monitoring  
 - 🔬 Future plans: Building system-level projects using **Go** and **C**, along with continuing work in **Node.js** on performance-intensive apps
 
@@ -86,6 +87,9 @@ An AI-powered chat platform tailored for students that includes:
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/socketio/socket.io/master/docs/images/logo.svg" alt="Socket.io" width="40" height="40" />
 </p>
 
 ---
