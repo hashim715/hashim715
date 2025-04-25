@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashim</h1>
-<h3 align="center">🚀 Passionate Backend Engineer | DevOps Enthusiast</h3>
+<p align="center">I love building scalable backend systems and automating workflows. Passionate about DevOps, system design, and making backend magic happen. 🚀</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding animation" />
