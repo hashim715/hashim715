@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashim</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate backend engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashim715&label=Profile%20views&color=0e75b6&style=flat" alt="hashim715" /> </p>
 
-- 🌱 I’m currently learning **DevOps, NLP, Linux, Generative AI, Computer Vision, PyTorch**
+- 🌱 I’m currently learning **DevOps, Golang**
 
 - 👨‍💻 All of my projects are available at [https://muhammad-hashim-portfolio.netlify.app/](https://muhammad-hashim-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, PERN Stack, Django, Python, Javascript, Rest Api Integration,Java, Deep Learning, Computer Vision, NLP, Docker, Kubernetes, Jenkins**
+- 💬 Ask me about **MERN Stack, Python, Javascript, Rest Api Integration, AI Applications, Docker, Jenkins, CI/CD, System Engineering, System Design**
 
 - 📫 How to reach me **hashimmuhammad844@gmail.com**
 
