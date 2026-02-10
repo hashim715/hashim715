@@ -22,43 +22,45 @@ model training, and production integration of AI models.
 I enjoy working on complex engineering problems where system design, performance,
 and real-world constraints matter more than frameworks or trends.
 
-- 🔧 Currently focusing on **Golang** and exploring **low-level programming** to become a **System Engineer**  
-- 🌍 Actively learning **CI/CD pipelines** with **GitHub Actions** and **Jenkins**  
-- 🐳 Proficient in **Docker**, **Nginx**, and deploying systems on **AWS** and **Azure**  
-- 🖥️ Backend development with **Express.js** and **Node.js**  
-- 🌐 Frontend development using **React.js**  
-- 📱 Developed mobile applications with **React Native** including the **CourseX** app for students, **LISA AI**, a personal voice assistant.  
-- 🗄️ Experience with **PostgreSQL** and **MongoDB**
-- ⚙️ Built scalable and optimized systems using Kafka, Redis, pub/sub architectures, and real-time communication with Socket.io
-- 📈 Working with **Prometheus** and **Grafana** for system monitoring  
-- 🔬 Future plans: Building system-level projects using **Go** and **C**, along with continuing work in **Node.js** on performance-intensive apps
+- 🌍 Designing and maintaining **CI/CD pipelines** using **GitHub Actions** and **Jenkins**
+- 🐳 Proficient in **Docker**, **Nginx**, and deploying production systems on **AWS** and **Azure**
+- 🖥️ Backend engineering with **Node.js** and **Express.js**
+- 🌐 Frontend development using **React.js**
+- 📱 Built and shipped mobile applications with **React Native**, including **CourseX** and **LISA AI**
+- 🗄️ Strong experience with **PostgreSQL** and **MongoDB**
+- ⚙️ Designed scalable systems using **Kafka**, **Redis**, **Pub/Sub architectures**, and real-time communication with **Socket.io**
+- 📈 Implemented system monitoring and observability using **Prometheus** and **Grafana**
+- 🧠 Building performance-intensive and AI-driven systems using **Node.js**, **Python**, **Go**, and **C**
 
 ---
 
 ### 🧠 Projects I'm Proud Of
 
-#### 🔊 **LISA AI - Personal Voice Assistant**  
-An intelligent voice assistant that can:  
-- Schedule and read emails  
-- Manage meetings and calendars  
-- Interact with Slack, Outlook, and Gmail  
-- Provide daily morning updates and search news  
-- Automate productivity tasks with ease
+#### 🔊 **LISA AI – Personal Voice Assistant**
+A production-grade AI voice assistant capable of:
+- Email scheduling and reading
+- Calendar and meeting management
+- Slack, Outlook, and Gmail integration
+- News search and daily briefings
+- Productivity automation workflows
 
-#### 🎓 **CourseX - AI Chat App for Students**  
-An AI-powered chat platform tailored for students that includes:  
-- Smart chatbots in study groups  
-- Group quiz features  
-- A modern chat interface like GroupMe  
-- Enhances learning and communication for educational communities
+---
+
+#### 🎓 **CourseX – AI Chat Platform for Students**
+An AI-powered real-time chat platform designed for students, featuring:
+- Smart AI chatbots in study groups
+- Group-based quizzes
+- Modern, scalable chat experience
+- Real-time communication infrastructure
 
 ---
 
 ### 💬 Ask Me About
-- **Backend Engineering**, **MERN Stack**, **System Design**
+- **Backend Engineering**, **Distributed Systems**, **System Design**
+- **Kafka**, **Redis**, **WebSockets**, **Real-Time Architectures**
 - **Docker**, **CI/CD**, **DevOps**, **Monitoring**
 - **Cloud Deployments** (AWS & Azure)
-- **Voice Assistants** and **AI Application Integration**
+- **AI Systems**, **Deep Learning**, **Computer Vision**
 - **Mobile App Development** with **React Native**
 
 ---
@@ -73,7 +75,7 @@ An AI-powered chat platform tailored for students that includes:
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad hashim" target="blank">
+  <a href="https://linkedin.com/in/muhammad-hashim-52aa03201" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
