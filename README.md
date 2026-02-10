@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashim</h1>
-<h3 align="center">A passionate backend engineer on the path to becoming a systems engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
@@ -9,6 +8,19 @@
 ---
 
 ### 🚀 About Me
+
+I am a **Senior Backend and Systems Engineer with 5+ years of hands-on experience**
+designing, building, and scaling production-grade backend systems. My work focuses
+on distributed architectures, real-time communication, and cloud-native systems,
+with a strong emphasis on reliability, performance, and scalability.
+
+Alongside backend engineering, I have strong experience in **Machine Learning,
+Deep Learning, and Computer Vision**. I have built AI-driven systems using
+**Python, PyTorch, and OpenCV**, including computer vision pipelines, deep learning
+model training, and production integration of AI models.
+
+I enjoy working on complex engineering problems where system design, performance,
+and real-world constraints matter more than frameworks or trends.
 
 - 🔧 Currently focusing on **Golang** and exploring **low-level programming** to become a **System Engineer**  
 - 🌍 Actively learning **CI/CD pipelines** with **GitHub Actions** and **Jenkins**  
