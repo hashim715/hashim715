@@ -55,6 +55,28 @@ An AI-powered real-time chat platform designed for students, featuring:
 
 ---
 
+#### 🧠 **Sunain — Multimodal AI Dataset Collection Platform**
+A **production-grade multimodal data collection platform** built to support
+training of advanced **AI and computer vision models**.
+
+Sunain operates as a **Zoom-like real-time meeting system** where users can
+create sessions and record **voice-based interactions**. The platform enables
+**large-scale dataset generation** for speech, gameplay, and egocentric human
+data using:
+
+- Real-time **WebSocket-based communication**
+- Custom **streaming servers**
+- **Asynchronous processing pipelines** powered by Bull queues
+
+The system includes a **dedicated admin dashboard** and a **separate annotator
+platform**, enabling structured data management, annotation workflows, and
+seamless integration into downstream AI pipelines.
+
+**Tech Stack:**  
+MongoDB · Express.js · React.js · Node.js · WebSockets · FastAPI · Python ·  
+Computer Vision · AI Systems · Bull Queue · Streaming Architecture
+
+
 ### 💬 Ask Me About
 - **Backend Engineering**, **Distributed Systems**, **System Design**
 - **Kafka**, **Redis**, **WebSockets**, **Real-Time Architectures**
