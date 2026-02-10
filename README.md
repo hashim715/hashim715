@@ -90,7 +90,7 @@ Computer Vision · AI Systems · Bull Queue · Streaming Architecture
 ### 📫 Reach Me At
 
 📧 Email: **hashimmuhammad844@gmail.com**  
-🌐 Portfolio: [muhammad-hashim-portfolio.netlify.app](https://muhammad-hashim-portfolio.netlify.app)
+🌐 Portfolio: [hashim-personal-portfolio.vercel.app](https://hashim-personal-portfolio.vercel.app/)
 
 ---
 
