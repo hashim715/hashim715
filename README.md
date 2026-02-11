@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a **Senior Backend and Systems Engineer with 5+ years of hands-on experience**
+I am a **Backend and Systems Engineer with 5+ years of hands-on experience**
 designing, building, and scaling production-grade backend systems. My work focuses
 on distributed architectures, real-time communication, and cloud-native systems,
 with a strong emphasis on reliability, performance, and scalability.
