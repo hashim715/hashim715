@@ -19,7 +19,9 @@
 
 ### 🚀 About Me
 
-I've worked across the stack using **JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Docker, and AWS**. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
+I've worked across the stack using **JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Bull Queue, Docker, and AWS**. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
+
+I also work with tools like **GitHub Actions** for CI/CD pipelines to automate testing and deployment, and **PostHog** for product analytics.
 
 Over time, I've developed a strong interest in understanding how software works beneath the abstractions. This has led me deeper into **systems programming, networking, operating systems, databases, concurrency, memory management, and distributed systems**, particularly through working with **C and Go**.
 
