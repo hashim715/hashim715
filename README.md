@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-I’m a Full Stack Engineer with 5 years of experience building and shipping production applications, with a strong bias toward backend engineering, system design, and building reliable software.
+I’m a **Full Stack Engineer with 5 years of experience** building and shipping production applications, with a strong bias toward backend engineering, system design, and building reliable software.
 
-I’ve worked across the stack using JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Docker, and AWS. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
+I’ve worked across the stack using **JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Docker, and AWS**. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
 
-Over time, I’ve developed a strong interest in understanding how software works beneath the abstractions. This has led me deeper into systems programming, networking, operating systems, databases, concurrency, memory management, and distributed systems, particularly through working with C and Go.
+Over time, I’ve developed a strong interest in understanding how software works beneath the abstractions. This has led me deeper into **systems programming, networking, operating systems, databases, concurrency, memory management, and distributed systems**, particularly through working with **C and Go**.
 
 I enjoy learning by building things from scratch and using them to understand the underlying concepts.
 
