@@ -1,31 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hashim</h1>
 
-<p align="center">
-  <a href="https://github.com/hashim715">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Backend+Engineer;Systems+Programming+Enthusiast;Building+with+C+%26+Go" alt="Typing SVG" />
-  </a>
-</p>
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%">
 
 **Full Stack Engineer** with 5 years of experience building and shipping production applications, with a strong bias toward backend engineering, system design, and building reliable software.
 
 <img src="https://komarev.com/ghpvc/?username=hashim715&label=Profile%20views&color=0e75b6&style=flat" alt="hashim715" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hashim715&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-
 </td>
-<td width="40%" align="center" valign="top">
+<td width="40%">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashim715&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-
 </td>
 </tr>
 </table>
