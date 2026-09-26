@@ -68,10 +68,11 @@ The system includes a **dedicated admin dashboard** and a **separate annotator p
 - React and Next.js
 - PostgreSQL and Redis
 - Kafka and real time systems
+- Bull Queue and background job processing
 - Docker and AWS
 - C and Go
 - Systems Programming
-
+  
 ---
 
 ### 📫 Reach Me At
