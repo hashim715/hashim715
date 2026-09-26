@@ -99,8 +99,3 @@ The system includes a **dedicated admin dashboard** and a **separate annotator p
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,supabase,docker,nginx,github,githubactions,go,py,c,aws,azure,redis,kafka" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostHog-black?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
-  <img src="https://img.shields.io/badge/Bull%20Queue-red?style=for-the-badge&logo=redis&logoColor=white" alt="Bull Queue" />
-</p>
