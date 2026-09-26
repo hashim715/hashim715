@@ -76,7 +76,7 @@ The system includes a **dedicated admin dashboard** and a **separate annotator p
 
 ### 📫 Reach Me At
 
-📧 Email: **hashimmuhammad844@gmail.com**
+📧 Email: **hashimmuhammad844@gmail.com** <br/>
 🌐 Portfolio: [hashim-personal-portfolio.vercel.app](https://hashim-personal-portfolio.vercel.app/)
 
 ---
