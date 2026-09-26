@@ -9,28 +9,13 @@
 
 ### 🚀 About Me
 
-I am a **Backend and Systems Engineer with 5+ years of hands-on experience**
-designing, building, and scaling production-grade backend systems. My work focuses
-on distributed architectures, real-time communication, and cloud-native systems,
-with a strong emphasis on reliability, performance, and scalability.
+I’m a Full Stack Engineer with 5 years of experience building and shipping production applications, with a strong bias toward backend engineering, system design, and building reliable software.
 
-Alongside backend engineering, I have strong experience in **Machine Learning,
-Deep Learning, and Computer Vision**. I have built AI-driven systems using
-**Python, PyTorch, and OpenCV**, including computer vision pipelines, deep learning
-model training, and production integration of AI models.
+I’ve worked across the stack using JavaScript, TypeScript, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Docker, and AWS. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
 
-I enjoy working on complex engineering problems where system design, performance,
-and real-world constraints matter more than frameworks or trends.
+Over time, I’ve developed a strong interest in understanding how software works beneath the abstractions. This has led me deeper into systems programming, networking, operating systems, databases, concurrency, memory management, and distributed systems, particularly through working with C and Go.
 
-- 🌍 Designing and maintaining **CI/CD pipelines** using **GitHub Actions** and **Jenkins**
-- 🐳 Proficient in **Docker**, **Nginx**, and deploying production systems on **AWS** and **Azure**
-- 🖥️ Backend engineering with **Node.js** and **Express.js**
-- 🌐 Frontend development using **React.js**
-- 📱 Built and shipped mobile applications with **React Native**, including **CourseX** and **LISA AI**
-- 🗄️ Strong experience with **PostgreSQL** and **MongoDB**
-- ⚙️ Designed scalable systems using **Kafka**, **Redis**, **Pub/Sub architectures**, and real-time communication with **Socket.io**
-- 📈 Implemented system monitoring and observability using **Prometheus** and **Grafana**
-- 🧠 Building performance-intensive and AI-driven systems using **Node.js**, **Python**, **Go**, and **C**
+I enjoy learning by building things from scratch and using them to understand the underlying concepts.
 
 ---
 
@@ -78,12 +63,17 @@ Computer Vision · AI Systems · Bull Queue · Streaming Architecture
 
 
 ### 💬 Ask Me About
-- **Backend Engineering**, **Distributed Systems**, **System Design**
-- **Kafka**, **Redis**, **WebSockets**, **Real-Time Architectures**
-- **Docker**, **CI/CD**, **DevOps**, **Monitoring**
-- **Cloud Deployments** (AWS & Azure)
-- **AI Systems**, **Deep Learning**, **Computer Vision**
-- **Mobile App Development** with **React Native**
+- Full Stack Development
+- Backend Engineering
+- System Design
+- Distributed Systems
+- Node.js and Express.js
+- React and Next.js
+- PostgreSQL and Redis
+- Kafka and real time systems
+- Docker and AWS
+- C and Go
+- Systems Programming
 
 ---
 
@@ -107,6 +97,6 @@ Computer Vision · AI Systems · Bull Queue · Streaming Architecture
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,mongodb,docker,nginx,jenkins,github,go,c,aws,azure,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgres,supabase,docker,nginx,github,go,c,aws,azure,redis,kafka" />
 </p>
 ---
