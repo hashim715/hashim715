@@ -19,13 +19,11 @@
 
 ### 🚀 About Me
 
-I've worked across the stack using **JavaScript, TypeScript, Python, Node.js, Express.js, React, Next.js, PostgreSQL, Supabase, Redis, Kafka, Bull Queue, Docker, and AWS**. I enjoy working on the backend and thinking about how different parts of a system come together to handle real world requirements.
+I've worked across the stack using **JavaScript, TypeScript, Python, Node.js, Express.js, React, and Next.js**. My backend experience includes designing APIs, working with **PostgreSQL and Supabase**, implementing caching and asynchronous processing with **Redis and Bull Queue**, building event driven systems with **Kafka**, and managing production deployments with **Docker and AWS**. I've also worked with **GitHub Actions** for CI/CD automation and **PostHog** for product analytics.
 
-I also work with tools like **GitHub Actions** for CI/CD pipelines to automate testing and deployment, and **PostHog** for product analytics.
+Beyond application development, I'm deeply interested in understanding how software works beneath its abstractions. This has led me to explore **systems programming, networking, operating systems, databases, concurrency, and memory management** through hands on projects in **C and Go**.
 
-Over time, I've developed a strong interest in understanding how software works beneath the abstractions. This has led me deeper into **systems programming, networking, operating systems, databases, concurrency, memory management, and distributed systems**, particularly through working with **C and Go**.
-
-I enjoy learning by building things from scratch and using them to understand the underlying concepts.
+I learn best by building things from scratch. Whether it's implementing a database engine, writing a network server, or exploring concurrent systems, I enjoy understanding the underlying mechanisms rather than treating them as black boxes. My goal is to combine practical software engineering experience with deeper systems knowledge to build software that is not only functional, but also reliable, efficient, and well designed.
 
 ---
 
