@@ -29,35 +29,23 @@ I enjoy learning by building things from scratch and using them to understand th
 
 ---
 
-### 🧠 Projects I'm Proud Of
+### 💼 Work Experience & Projects
 
-#### 🔊 LISA AI – Personal Voice Assistant
-A production-grade AI voice assistant capable of:
-- Email scheduling and reading
-- Calendar and meeting management
-- Slack, Outlook, and Gmail integration
-- News search and daily briefings
-- Productivity automation workflows
+#### Backend Engineer — Awriri @ Brainbox Automations (Feb – Aug 2026)
+Doctor digital-presence scoring platform for the UAE/MENA market. Built the 4-pillar scoring engine from scratch on Bull/Redis background workers, led the migration of social integrations (Twitter/X, Facebook, Instagram, GBP) from a third-party SDK to native APIs via a custom adapter pattern, and fixed a scale bottleneck in doctor matching using PostgreSQL `pg_trgm` indexing. 290+ commits.
 
-#### 🎓 CourseX – AI Chat Platform for Students
-An AI-powered real-time chat platform designed for students, featuring:
-- Smart AI chatbots in study groups
-- Group-based quizzes
-- Modern, scalable chat experience
-- Real-time communication infrastructure
+#### Full Stack Engineer — Penthouse PMS @ Brainbox Automations (Jul – Sep 2026)
+Property management system / CRM for hospitality operations. Built a unified RingCentral SMS + Microsoft 365 email inbox, automated Seam smart-lock door codes, led a full Supabase/Postgres schema audit and zero-downtime re-keying, and split the sync jobs into a standalone Python service on AWS EC2 (Docker, systemd timers, OIDC-based CI/CD) running 40+ scheduled jobs. 186 + 51 commits across both repos, ~60K lines changed.
 
 #### 🧠 Sunain — Multimodal AI Dataset Collection Platform
-A **production-grade multimodal data collection platform** built to support training of advanced **AI and computer vision models**.
+A production-grade, Zoom-like data collection platform for training AI/computer vision models — real-time WebSocket sessions, streaming servers, Bull-queue async pipelines, and dedicated admin + annotator dashboards.
+**Tech:** MongoDB · Express.js · React.js · Node.js · WebSockets · FastAPI · Python · Bull Queue
 
-Sunain operates as a **Zoom-like real-time meeting system** where users can create sessions and record **voice-based interactions**. The platform enables **large-scale dataset generation** for speech, gameplay, and egocentric human data using:
+#### 🔊 LISA AI – Personal Voice Assistant
+A production-grade AI voice assistant for email scheduling/reading, calendar and meeting management, Slack/Outlook/Gmail integration, news search, and daily briefings.
 
-- Real-time **WebSocket-based communication**
-- Custom **streaming servers**
-- **Asynchronous processing pipelines** powered by Bull queues
-
-The system includes a **dedicated admin dashboard** and a **separate annotator platform**, enabling structured data management, annotation workflows, and seamless integration into downstream AI pipelines.
-
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js · WebSockets · FastAPI · Python · Computer Vision · AI Systems · Bull Queue · Streaming Architecture
+#### 🎓 CourseX – AI Chat Platform for Students
+An AI-powered real-time chat platform with smart AI chatbots in study groups, group quizzes, and scalable real-time communication infrastructure.
 
 ---
 
