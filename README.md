@@ -31,6 +31,32 @@ I enjoy learning by building things from scratch and using them to understand th
 
 ### 🧠 Projects I'm Proud Of
 
+#### 🩺 Awriri — Doctor Digital-Presence Scoring Platform
+A production-grade platform that scans a doctor's online footprint — web presence, Google Business Profile, reviews, and social media — and scores it against peers in the UAE/MENA market, with actionable recommendations to improve it.
+
+As backend engineer, I built the core scoring engine and systems powering it:
+
+- A 4-pillar digital-presence scoring engine, aggregating results from parallel background scan jobs
+- Peer-benchmarking engine with on-demand geo-based comparison and Redis caching
+- Migration of social integrations (Twitter/X, Facebook, Instagram, Google Business Profile) from a third-party SDK to native platform APIs, via a custom adapter pattern
+- AI-driven recommendations engine and review sentiment analysis system
+- Auth hardening: OTP flows, step-up MFA, and role-based access control
+
+**Tech Stack:** Node.js · Express.js · Prisma · PostgreSQL · Redis · Bull · React · Vite · DataForSEO API
+
+#### 🏨 Penthouse PMS — Property Management System for Hospitality
+A production property management system / CRM for hospitality operations, covering reservations, guest communication, revenue, housekeeping, and front desk.
+
+As a full stack engineer, I owned major systems across the app and its backend infrastructure:
+
+- A unified communications inbox merging RingCentral SMS and Microsoft 365 email into one interface
+- Real-time incoming-call notifications with hardened, deduplicated RingCentral webhook handling
+- Automated smart-lock door-code generation per reservation via the Seam API
+- A full database schema audit and cleanup on Supabase/Postgres, including a zero-downtime re-key of a live production table
+- A standalone Python sync service deployed on AWS EC2 (Docker, systemd timers, OIDC-based CI/CD), running 40+ scheduled jobs independently of the main app
+
+**Tech Stack:** Next.js · Supabase · PostgreSQL · Python · AWS EC2 · Docker · RingCentral API · Seam API
+
 #### 🔊 LISA AI – Personal Voice Assistant
 A production-grade AI voice assistant capable of:
 - Email scheduling and reading
