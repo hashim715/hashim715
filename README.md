@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-I've worked across the stack using **JavaScript, TypeScript, Python, Node.js, Express.js, React, and Next.js**. My backend experience includes designing APIs, working with **PostgreSQL and Supabase**, implementing caching and asynchronous processing with **Redis and Bull Queue**, building event driven systems with **Kafka**, and managing production deployments with **Docker and AWS**. I've also worked with **GitHub Actions** for CI/CD automation and **PostHog** for product analytics.
+I've worked across the stack using **JavaScript, TypeScript, Python, Node.js, Express.js, FastAPI, React, and Next.js**. My backend experience includes designing APIs, working with **PostgreSQL and Supabase**, implementing caching and asynchronous processing with **Redis and Bull Queue**, building event driven systems with **Kafka**, and managing production deployments with **Docker and AWS**. I've also worked with **GitHub Actions** for CI/CD automation and **PostHog** for product analytics.
 
 Beyond application development, I'm deeply interested in understanding how software works beneath its abstractions. This has led me to explore **systems programming, networking, operating systems, databases, concurrency, and memory management** through hands on projects in **C and Go**.
 
@@ -90,7 +90,7 @@ The system includes a **dedicated admin dashboard** and a **separate annotator p
 - Backend Engineering
 - System Design
 - Distributed Systems
-- Node.js and Express.js
+- Node.js, Express.js and FastAPI
 - React and Next.js
 - PostgreSQL and Redis
 - Kafka and real time systems
