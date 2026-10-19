@@ -22,7 +22,7 @@
 
 I'm a Software Engineer with 5 years of experience building and shipping production applications across backend, frontend, and cloud environments.
 
-My work spans backend engineering, full stack development, API design and integration, database architecture, and application deployment. I primarily work with JavaScript, TypeScript, Node.js, Express.js, NestJS, Python, React, and Next.js, along with databases and messaging technologies such as PostgreSQL, MongoDB, Supabase, Redis, Kafka, and Bull Queue.
+My work spans backend engineering, full stack development, API design and integration, database architecture, and application deployment. I primarily work with JavaScript, TypeScript, Node.js, Express.js, NestJS, Python, FastAPI, React, and Next.js, along with databases and messaging technologies such as PostgreSQL, MongoDB, Supabase, Redis, Kafka, and Bull Queue.
 
 I also work with Docker, Terraform, CI/CD pipelines, GitHub Actions, and AWS to build, deploy, and maintain applications. My experience extends to mobile development with React Native and integrating third-party services such as Firebase Cloud Messaging.
 
