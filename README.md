@@ -4,7 +4,7 @@
 <tr>
 <td width="60%">
 
-**Full Stack Engineer** with 5 years of experience building and shipping production applications, with a strong bias toward backend engineering, system design, and building reliable software.
+**Software Engineer** with 5 years of experience building and shipping production applications across backend, frontend, and cloud environments, with a strong background in backend engineering, API development, and cloud deployment.
 
 <img src="https://komarev.com/ghpvc/?username=hashim715&label=Profile%20views&color=0e75b6&style=flat" alt="hashim715" />
 
