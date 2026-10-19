@@ -19,11 +19,16 @@
 
 ### 🚀 About Me
 
-I've worked across the stack using **JavaScript, TypeScript, Python, Node.js, Express.js, FastAPI, React, and Next.js**. My backend experience includes designing APIs, working with **PostgreSQL and Supabase**, implementing caching and asynchronous processing with **Redis and Bull Queue**, building event driven systems with **Kafka**, and managing production deployments with **Docker and AWS**. I've also worked with **GitHub Actions** for CI/CD automation and **PostHog** for product analytics.
 
-Beyond application development, I'm deeply interested in understanding how software works beneath its abstractions. This has led me to explore **systems programming, networking, operating systems, databases, concurrency, and memory management** through hands on projects in **C and Go**.
+I'm a Software Engineer with 5 years of experience building and shipping production applications across backend, frontend, and cloud environments.
 
-I learn best by building things from scratch. Whether it's implementing a database engine, writing a network server, or exploring concurrent systems, I enjoy understanding the underlying mechanisms rather than treating them as black boxes. My goal is to combine practical software engineering experience with deeper systems knowledge to build software that is not only functional, but also reliable, efficient, and well designed.
+My work spans backend engineering, full stack development, API design and integration, database architecture, and application deployment. I primarily work with JavaScript, TypeScript, Node.js, Express.js, NestJS, Python, React, and Next.js, along with databases and messaging technologies such as PostgreSQL, MongoDB, Supabase, Redis, Kafka, and Bull Queue.
+
+I also work with Docker, Terraform, CI/CD pipelines, GitHub Actions, and AWS to build, deploy, and maintain applications. My experience extends to mobile development with React Native and integrating third-party services such as Firebase Cloud Messaging.
+
+Beyond application development, I'm interested in understanding how software works beneath the abstractions. I've been exploring systems programming with C and Go, focusing on networking, operating systems, concurrency, memory management, and distributed systems.
+
+I enjoy taking ownership of technical problems, learning by building, and developing software that is reliable, maintainable, and practical to operate.
 
 ---
 
