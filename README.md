@@ -4,7 +4,7 @@
 <tr>
 <td width="60%">
 
-**Software Engineer** with 5 years of experience building and shipping production applications across backend, frontend, and cloud environments, with a strong background in backend engineering, API development, and cloud deployment.
+**Software Engineer** experienced in building and shipping production applications across backend, frontend, and cloud environments, with a strong background in backend engineering, API development, and cloud deployment.
 
 <img src="https://komarev.com/ghpvc/?username=hashim715&label=Profile%20views&color=0e75b6&style=flat" alt="hashim715" />
 
@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 
-I'm a Software Engineer with 5 years of experience building and shipping production applications across backend, frontend, and cloud environments.
+I'm a Software Engineer focused on building and shipping production applications across backend, frontend, and cloud environments.
 
 My work spans backend engineering, full stack development, API design and integration, database architecture, and application deployment. I primarily work with JavaScript, TypeScript, Node.js, Express.js, NestJS, Python, FastAPI, React, and Next.js, along with databases and messaging technologies such as PostgreSQL, MongoDB, Supabase, Redis, Kafka, and Bull Queue.
 
